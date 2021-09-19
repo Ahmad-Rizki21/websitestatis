@@ -1,1 +1,6 @@
 # websitestatis
+
+Website ini menggunakan template dari Boostrap 4, dan mengubahnya menggunakan bahasa PHP...
+Jika ingin mengunakan nya silahkan di download saja karena saya juga masih dalam proses belajar....
+
+Thanks ^_^
